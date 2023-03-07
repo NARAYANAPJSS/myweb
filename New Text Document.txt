@@ -1,0 +1,16 @@
+yum install httpd -y && service httpd start && vi /var/www/html/index.html
+<html>
+<head>
+<body>
+<h1> "Hi uday" </h1>
+</body>
+</head>
+</html>
+
+
+
+
+
+
+	Working as a Devops engineer with Elite Crest Technologies India Pvt. Ltd from September 2019  to Till date.
+	Working as a devops engineer with Larsen & Turbo from 2018 – august 2019
